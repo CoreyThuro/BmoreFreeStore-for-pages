@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/deploy-portfolio/static/css/main.5670a3a3.chunk.css",
+    "main.js": "/deploy-portfolio/static/js/main.67952078.chunk.js",
+    "main.js.map": "/deploy-portfolio/static/js/main.67952078.chunk.js.map",
+    "runtime-main.js": "/deploy-portfolio/static/js/runtime-main.6406f94c.js",
+    "runtime-main.js.map": "/deploy-portfolio/static/js/runtime-main.6406f94c.js.map",
+    "static/css/2.8ab0036f.chunk.css": "/deploy-portfolio/static/css/2.8ab0036f.chunk.css",
+    "static/js/2.c284220e.chunk.js": "/deploy-portfolio/static/js/2.c284220e.chunk.js",
+    "static/js/2.c284220e.chunk.js.map": "/deploy-portfolio/static/js/2.c284220e.chunk.js.map",
+    "index.html": "/deploy-portfolio/index.html",
+    "precache-manifest.708331058ac5b8cc8f30b3c6e7978043.js": "/deploy-portfolio/precache-manifest.708331058ac5b8cc8f30b3c6e7978043.js",
+    "service-worker.js": "/deploy-portfolio/service-worker.js",
+    "static/css/2.8ab0036f.chunk.css.map": "/deploy-portfolio/static/css/2.8ab0036f.chunk.css.map",
+    "static/css/main.5670a3a3.chunk.css.map": "/deploy-portfolio/static/css/main.5670a3a3.chunk.css.map",
+    "static/js/2.c284220e.chunk.js.LICENSE.txt": "/deploy-portfolio/static/js/2.c284220e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/deploy-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/index.css": "/deploy-portfolio/static/media/open-sans-latin-800italic.c62c3eea.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6406f94c.js",
+    "static/css/2.8ab0036f.chunk.css",
+    "static/js/2.c284220e.chunk.js",
+    "static/css/main.5670a3a3.chunk.css",
+    "static/js/main.67952078.chunk.js"
+  ]
+}
